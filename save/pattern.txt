@@ -1,0 +1,18 @@
+#######VOTRE FICHIER DOIT RESPECTER LA SYNTAX DE CELUI-CI POUR ETRE VALIDE (ne pas conter cette ligne)#######
+JEU:
+Nomjoueur1
+Nomjoueur2
+Scorejoueur1
+Scorejoueur2
+NumeroDuCoupAtuelleDeLaPartie
+QuiDoitJouer (white ou black)
+ROCK:
+PetitRockBlanc (True ou False)
+GrandRockBlanc (True ou False)
+PetitRockNoir (True ou False)
+GrandRockBlanc (True ou False)
+PIECE:
+BLANC:
+Inscrire les pièces blanche (une par ligne selon la notation française, roi e4 = Re4) !!les pions doivent être noter P...!!
+NOIR:
+Inscrire les pièces noirs (une par ligne selon la notation française, roi e4 = Re4)

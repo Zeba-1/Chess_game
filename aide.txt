@@ -1,0 +1,6 @@
+COMMENT CHARGER UNE PARTIE:
+Pour charger une partie déjà sauvegardée il suffis d'inscrire le nom
+avec le quel vous avez sauvegardé la partie.
+Si vous voulez charger une partie créer de toute pièce il vous faut
+créer le fichier. Pour cela référez vous au fichier 'pattern.txt' dans
+le dossier 'save' a la racine du programme.
